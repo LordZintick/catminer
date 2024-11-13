@@ -19,6 +19,9 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
 > <br>
 > _(Use Control+S and Control+L to save/load the game on PC)_
 
+>[!NOTE]
+> You can view the planned/implemented features [here](https://github.com/LordZintick/catminer/edit/main/README.md#plannedimplemented-features)
+
 ### What is Catminer?
   Catminer is a clicker game where you would click a cat to mine a rock
   <br>
@@ -69,3 +72,33 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   > <br>
   > Make sure to buy that upgrade as soon as possible, because it makes the rest of the game much, much easier!
 
+# Planned/Implemented Features
+  I have many features planned for this game, and I have many I have already implemented
+  > [!NOTE]
+  > Key: <br>
+  > ✅ - Feature is finished and implemented into the game with minimal bugs<br>
+  > ❓ - Not sure if I will implement this feature<br>
+  > ⚠️ - The feature is finished but has bugs<br>
+  > ❌ - The feature is not yet implemented<br>
+  > 〰️ - The feature is not fully implemented<br>
+  > ☢️ - The feature is finished but has not been fully tested and may have bugs/not work<br>
+  > 🛠️ - The feature is in development
+
+  Core Functionality - ✅<br>
+  Upgrades - ✅<br>
+  Rebirthing - ✅<br>
+  Currency Per Second - ⚠️<br>
+  Pickaxe Tiers - ☢️<br>
+  Currency Multipliers - ✅<br>
+  Gems - ✅<br>
+  Crystals - ✅<br>
+  Diamonds - ✅<br>
+  Laboratory - ✅<br>
+  Research Upgrades - 〰️<br>
+  Visual Improvements - 〰️<br>
+  Shipping/ship flying minigame - 🛠️<br>
+  More Resets (Like Rebirths) - ❌<br>
+  Offline progress - ❌<br>
+  Savegame System - 🛠️<br>
+  <br>
+  Any ideas are welcome!
