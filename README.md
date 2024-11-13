@@ -3,11 +3,17 @@ Catminer 2 is a remake of a previous clicker game I made called Catminer
 <br>
 _(You can find the first version of Catminer [here](tinyurl.com/catminer))_
 <br>
+_(You can play this version of Catminer [here](lordzintick.github.io/catminer))_
+<br>
 **I made catminer 2 using the [_Construct Game Engine_](construct.net), you should check them out**
+### How do I play?
+You can play Catminer 2 [here](lordzintick.github.io/catminer)
+<br>
+You can play the legacy version of Catminer [here](https://tinyurl.com/catminer-legacy)
+### Platform Support
+Catminer 2 has mobile and PC support, though on mobile the experimental save feature is not available
 ### What is Catminer?
   Catminer is a clicker game where you click a cat to mine a rock
-  <br>
-  Very simple, I know.
   <br>
   You would buy upgrades that would help increase the amount of catcoins you aquired until you reached enough to buy the **ULTIMATE WONDER**, which completed the game
 <br>
@@ -38,5 +44,3 @@ _(You can find the first version of Catminer [here](tinyurl.com/catminer))_
   Diamonds can only be gotten as a chance when you get a crystal, so they are even rarer
   <br>
   Diamonds can be spent on the most powerful pickaxe upgrade or a crystals per second upgrade
-## How can I play this?
-You can play it [here](lordzintick.github.io/catminer)
