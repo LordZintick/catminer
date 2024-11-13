@@ -5115,6 +5115,7 @@ self.C3_ExpressionFuncs = [
 		() => 1,
 		() => 4,
 		() => "https://https://github.com/LordZintick/catminer/tree/main",
+		() => "CodeViewer",
 		() => "System",
 		() => "The Tick Function",
 		p => {

@@ -27,7 +27,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Audio.Acts.FadeVolume,
 		C3.Behaviors.Tween.Acts.TweenOneProperty,
 		C3.Plugins.System.Acts.Wait,
-		C3.Plugins.Browser.Acts.GoToURL,
+		C3.Plugins.Browser.Acts.GoToURLWindow,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Plugins.Sprite.Acts.SetPosToObject,
