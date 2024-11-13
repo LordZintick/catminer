@@ -20,7 +20,7 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
 > _(Use Control+S and Control+L to save/load the game on PC)_
 
 >[!NOTE]
-> You can view the planned/implemented features [here](https://github.com/LordZintick/catminer/edit/main/README.md#plannedimplemented-features)
+> You can view the planned/implemented features [here](#plannedimplemented-features)
 
 ### What is Catminer?
   Catminer is a clicker game where you would click a cat to mine a rock
