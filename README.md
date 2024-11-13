@@ -1,9 +1,9 @@
 # Catminer 2 - New Adventures!
-Catminer 2 is a remake of a previous game I made called Catminer
+Catminer 2 is a remake of a previous clicker game I made called Catminer
+<br>
+_(You can find the first version of Catminer [here](tinyurl.com/catminer))_
 <br>
 **I made catminer 2 using the [_Construct Game Engine_](construct.net), you should check them out**
-<br>
-_(You can find that game [here](tinyurl.com/catminer))_
 ### What is Catminer?
   Catminer is a clicker game where you click a cat to mine a rock
   <br>
