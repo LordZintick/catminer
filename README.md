@@ -1,10 +1,6 @@
 # Catminer 2 - New Adventures!
 Catminer 2 is a remake of a previous clicker game I made called Catminer
 <br>
-_(You can find the first version of Catminer [here](tinyurl.com/catminer))_
-<br>
-_(You can play this version of Catminer [here](lordzintick.github.io/catminer))_
-<br>
 **I made catminer 2 using the [_Construct Game Engine_](construct.net), you should check them out**
 ### How do I play?
 You can play Catminer 2 [here](lordzintick.github.io/catminer)
