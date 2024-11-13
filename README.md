@@ -12,6 +12,8 @@ _(You can find that game [here](tinyurl.com/catminer))_
 ## Overview
   Catminer 2 - New Adventures revamps the previous version of the game with new upgrades, new features, new currencies, and more
   <br>
+  I made catminer 2 using the [_Construct Game Engine_](construct.net), you should check them out, they are the best game engine
+  <br>
   You can still click on the cat and buy upgrades, but now there are **Rebirths**
   <br>
   ### Rebirthing
