@@ -12,6 +12,13 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
 > [!IMPORTANT]
 > Catminer 2 has mobile and PC support, though on mobile the experimental save feature is not available
 
+>[!WARNING]
+> Catminer 2 **_DOES NOT SAVE AUTOMATICALLY!_** This means that you could lose your hard-earned progress if Catminer gets closed!
+> <br>
+> A fully-implemented savegame system is under development, but for now only PC users have acess to the experimental one
+> <br>
+> _(Use Control+S and Control+L to save/load the game on PC)_
+
 ### What is Catminer?
   Catminer is a clicker game where you would click a cat to mine a rock
   <br>
@@ -24,9 +31,9 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   You can still click on the cat and buy upgrades, but now there are **Rebirths**
   <br>
   ### ![catminer2-rebirth](https://github.com/user-attachments/assets/058218bd-2f47-4276-aced-67e7b2d63dd1) Rebirthing
-  Rebirthing costs a certain amount of [catcoins](#catcoins), [gems](#gems), [crystals](#crystals), and [diamonds](#diamonds), but it gives you [cat treats](#cat-treats) which can be spent on powerful multiplier upgrades
+  Rebirthing costs a certain amount of catcoins, gems, crystals, and diamonds, and it resets most things, but it gives you cat treats which can be spent on powerful multiplier upgrades
   <br>
-  Rebirthing also unlocks new features and upgrades, including [a laboratory](#research), a pickaxe upgrade area, and upgrades that give you currency per second
+  Rebirthing also unlocks new features and upgrades, including a laboratory, a pickaxe upgrade area, and upgrades that give you currency per second
   ## Currencies
   There are currently **six** currencies you can aquire through gameplay:
   ### ![catminer2-coin](https://github.com/user-attachments/assets/1005d15c-4440-44b9-834a-b6dd92a71b49) Catcoins
