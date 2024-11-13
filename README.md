@@ -36,3 +36,5 @@ _(You can find that game [here](tinyurl.com/catminer))_
   Diamonds can only be gotten as a chance when you get a crystal, so they are even rarer
   <br>
   Diamonds can be spent on the most powerful pickaxe upgrade or a crystals per second upgrade
+## How can I play this?
+You can play it [here](lordzintick.github.io/catminer)
