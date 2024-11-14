@@ -37,6 +37,8 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   Rebirthing costs a certain amount of catcoins, gems, crystals, and diamonds, and it resets most things, but it gives you cat treats which can be spent on powerful multiplier upgrades
   <br>
   Rebirthing also unlocks new features and upgrades, including a laboratory, a pickaxe upgrade area, and upgrades that give you currency per second
+  <br><br>
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Rebirthing)
   ## Currencies
   There are currently **six** currencies you can aquire through gameplay:
   ### ![catminer2-coin](https://github.com/user-attachments/assets/1005d15c-4440-44b9-834a-b6dd92a71b49) Catcoins
@@ -44,25 +46,33 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   > [!NOTE]
   > Catcoins are not aquired by a chance, you get a certain amount of them per click/second
   
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Catcoins)
   ### ![catminer2-gem](https://github.com/user-attachments/assets/d659555c-3571-42ab-90e3-68df2a1f873c) Gems
   Gems are the second most common, only requiring 2 rebirths to unlock their chance upgrade.
   <br>
   Gems can be spent on a more powerful pickaxe upgrade, or a crystal chance upgrade
+  <br><br>
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Gems)
   ### ![catminer2-crystal](https://github.com/user-attachments/assets/538dabc9-d0ad-4d5c-ad19-981808c4633e) Crystals
   Crystals are the next rarest currency, and their chance upgrade is unlocked at 4 rebirths
   <br>
   Crystals can be spent on an even more powerful pickaxe upgrade, a diamond chance upgrade, or a gems per second upgrade
+  <br><br>
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Crystals)
   ### ![catminer2-diamond](https://github.com/user-attachments/assets/fa402d30-14d3-49aa-970e-84fdedfc7bfd) Diamonds
   Diamonds are most special and rarest currency, requiring 6 rebirths and some crystals to unlock their chance upgrade
   > [!NOTE]
   > Diamonds can only be acquired and their chance is only applied when you get a crystal, so make sure your crystal chance is pretty high!
   
   Diamonds can be spent on the most powerful pickaxe upgrade or a crystals per second upgrade
+  <br><br>
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Diamonds)
   ### ![catminer2-cat_treats](https://github.com/user-attachments/assets/92989154-9f71-438b-9795-5b7359017dcb) Cat Treats
   Cat treats are a precious resource aquired upon rebirthing and can be spent on multiplier upgrades for catcoins, gems, crystals, or diamonds
   > [!TIP]
   > The amount of cat treats you earn upon rebirthing can be increased using research!
 
+  [Read More...](https://github.com/LordZintick/catminer/wiki/Cat-Treats)
   ### ![catminer2-research](https://github.com/user-attachments/assets/93ffc567-325f-42ee-aa7e-938673d6d6b5) Research
   Research is aquired by sacrificing some catcoins, gems, or crystals to commit research and gain research
   <br>
@@ -72,6 +82,7 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   > <br>
   > Make sure to buy that upgrade as soon as possible, because it makes the rest of the game much, much easier!
 
+  [Read More...](https://github.com/LordZintick/catminer/wiki/The-Laboratory)
 # Planned/Implemented Features
   I have many features planned for this game, and I have many I have already implemented
   > [!NOTE]
