@@ -55,7 +55,7 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   ### ![catminer2-diamond](https://github.com/user-attachments/assets/fa402d30-14d3-49aa-970e-84fdedfc7bfd) Diamonds
   Diamonds are most special and rarest currency, requiring 6 rebirths and some crystals to unlock their chance upgrade
   > [!NOTE]
-  > Diamonds can only be aquired and their chance is only applied when you get a crystal, so make sure your crystal chance is pretty high!
+  > Diamonds can only be acquired and their chance is only applied when you get a crystal, so make sure your crystal chance is pretty high!
   
   Diamonds can be spent on the most powerful pickaxe upgrade or a crystals per second upgrade
   ### ![catminer2-cat_treats](https://github.com/user-attachments/assets/92989154-9f71-438b-9795-5b7359017dcb) Cat Treats
