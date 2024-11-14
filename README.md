@@ -109,7 +109,8 @@ Catminer 2 - New Adventures is a remake of a previous clicker game I made called
   Visual Improvements - 〰️<br>
   Shipping/ship flying minigame - 🛠️<br>
   More Resets (Like Rebirths) - ❌<br>
-  Offline progress - ❌<br>
+  Clickables - ❌<br>
+  Offline progress - ❓<br>
   Savegame System - 🛠️<br>
   <br>
   Any ideas are welcome!
